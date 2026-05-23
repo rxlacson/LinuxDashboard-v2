@@ -1,0 +1,18 @@
+{
+  "hosts": [
+    {"name": "Google DNS", "address": "8.8.8.8", "type": "ip"},
+    {"name": "Cloudflare DNS", "address": "1.1.1.1", "type": "ip"},
+    {"name": "Google", "address": "google.com", "type": "domain"},
+    {"name": "GitHub", "address": "github.com", "type": "domain"},
+    {"name": "Stack Overflow", "address": "stackoverflow.com", "type": "domain"},
+    {"name": "AMD Official", "address": "amd.com", "type": "domain"}
+  ],
+  "dns_servers": [
+    {"name": "Google DNS", "server": "8.8.8.8"},
+    {"name": "Cloudflare DNS", "server": "1.1.1.1"},
+    {"name": "OpenDNS", "server": "208.67.222.222"},
+    {"name": "Quad9", "server": "9.9.9.9"}
+  ],
+  "timeout": 3,
+  "test_domain": "google.com"
+}

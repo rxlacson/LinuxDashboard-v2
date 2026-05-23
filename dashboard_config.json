@@ -1,0 +1,12 @@
+{
+  "last_run": "2026-05-23T08:16:43.765218",
+  "favorite_commands": [],
+  "custom_commands": {
+    "sysinfo": "uname -a && uptime && free -h",
+    "diskcheck": "df -h && du -sh /var/log /tmp",
+    "netcheck": "ip addr show && ping -c 3 google.com",
+    "topproc": "ps aux --sort=-%cpu | head -10",
+    "meminfo": "free -h && cat /proc/meminfo | head -10",
+    "logcheck": "tail -n 50 /var/log/syslog 2>/dev/null || tail -n 50 /var/log/messages 2>/dev/null"
+  }
+}

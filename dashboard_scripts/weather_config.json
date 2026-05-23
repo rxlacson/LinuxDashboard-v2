@@ -1,0 +1,12 @@
+{
+  "api_key": "",
+  "default_locations": [
+    {"name": "New York", "country": "US"},
+    {"name": "London", "country": "GB"},
+    {"name": "Tokyo", "country": "JP"},
+    {"name": "Austin", "country": "US"},
+    {"name": "San Francisco", "country": "US"}
+  ],
+  "units": "metric",
+  "language": "en"
+}

@@ -1,0 +1,49 @@
+{
+  "api_key": "",
+  "watchlist": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "alert_high": 0,
+      "alert_low": 0
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "alert_high": 0,
+      "alert_low": 0
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp.",
+      "alert_high": 0,
+      "alert_low": 0
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "alert_high": 0,
+      "alert_low": 0
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "alert_high": 0,
+      "alert_low": 0
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "alert_high": 0,
+      "alert_low": 440.0
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "alert_high": 0,
+      "alert_low": 0
+    }
+  ],
+  "refresh_interval": 60,
+  "currency": "USD"
+}
